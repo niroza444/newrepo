@@ -1,0 +1,10 @@
+#!/bin/bash
+REGION="Nirav"
+USERNAME="Oza"
+PWD="xyz"
+echo "$REGION"
+echo
+echo "$USERNAME"
+echo
+echo "$PWD"
+
